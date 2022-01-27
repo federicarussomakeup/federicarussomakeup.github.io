@@ -512,7 +512,9 @@ html.is-leaving .transition-wipe {
 	left: 2.5%;
 	color: #fff
 }
-
+.etro {
+	left: 38% !important;
+}
 .svLink {
 	margin-top: 180px;
 	stroke-dasharray: 297px;
@@ -536,7 +538,7 @@ html.is-leaving .transition-wipe {
 
 .primo{
     position: absolute;
-	top: 38%;
+	top: 45%;
 	left: 5%; 
 }
 
@@ -660,118 +662,115 @@ html.is-leaving .transition-wipe {
 }
 
 .second_page:nth-child(1) {
-	background-image: url(image/palmAN/IMG_9826.jpg)
+	background-image: url(image/etro/e1.jpg)
 }
 
 .second_page:nth-child(2) {
-	background-image: url(image/palmAN/IMG_9827.jpg)
+	background-image: url(image/etro/e2.jpg)
 }
 
 .second_page:nth-child(3) {
-	background-image: url(image/palmAN/IMG_9828.jpg)
+	background-image: url(image/etro/e3.jpg)
 }
 
-.second_page:nth-child(4) {
-	background-image: url(image/palmAN/IMG_9829.jpg)
-}
 
 .terza_pag:nth-child(1) {
-	background-image: url(image/adri/a1.jpg)
+	background-image: url(image/nylon/n1.jpg)
 }
 
 .terza_pag:nth-child(2) {
-	background-image: url(image/adri/a2.jpeg)
+	background-image: url(image/nylon/n2.jpg)
 }
 
 .terza_pag:nth-child(3) {
-	background-image: url(image/adri/a3.jpg)
+	background-image: url(image/nylon/n3.jpg)
 }
 
 .terza_pag:nth-child(4) {
-	background-image: url(image/adri/a4.jpeg)
+	background-image: url(image/nylon/n4.jpg)
 }
 
 
 .quarta_pag:nth-child(1) {
-	background-image: url(image/slip/s1.jpg)
+	background-image: url(image/nast/n1.jpg)
 }
 
 .quarta_pag:nth-child(2) {
-	background-image: url(image/slip/s2.jpg)
+	background-image: url(image/nast/n2.jpg)
 }
 
 .quarta_pag:nth-child(3) {
-	background-image: url(image/slip/s3.jpg)
+	background-image: url(image/nast/n3.jpg)
 }
 
 .quarta_pag:nth-child(4) {
-	background-image: url(image/slip/s4.jpg)
+	background-image: url(image/nast/n4.jpg)
 }
 
 .quinta_pag:nth-child(1) {
-	background-image: url(image/enri/e1.jpg)
+	background-image: url(image/meta/m1.jpg)
 }
 
 .quinta_pag:nth-child(2) {
-	background-image: url(image/enri/e2.jpg)
+	background-image: url(image/meta/m2.jpg)
 }
 
 .quinta_pag:nth-child(3) {
-	background-image: url(image/enri/e3.jpg)
+	background-image: url(image/meta/m3.jpg)
 }
 
 .quinta_pag:nth-child(4) {
-	background-image: url(image/enri/e4.jpg)
+	background-image: url(image/meta/m4.jpg)
 }
 
 
 .sesta_pag:nth-child(1) {
-	background-image: url(image/spa/s1.jpg)
+	background-image: url(image/nss/nss1.JPG)
 }
 
 .sesta_pag:nth-child(2) {
-	background-image: url(image/spa/s2.jpg)
+	background-image: url(image/nss/nss2.JPG)
 }
 
 .sesta_pag:nth-child(3) {
-	background-image: url(image/spa/s3.jpg)
+	background-image: url(image/nss/nss3.JPG)
 }
 
 .sesta_pag:nth-child(4) {
-	background-image: url(image/spa/s4.jpg)
+	background-image: url(image/nss/nss4.JPG)
 }
 
 
 .ottava_pag:nth-child(1) {
-	background-image: url(image/toilet/t1.jpg)
+	background-image: url(image/rolla/r1.jpeg)
 }
 
 .ottava_pag:nth-child(2) {
-	background-image: url(image/toilet/t2.jpg)
+	background-image: url(image/rolla/r2.jpeg)
 }
 
 .ottava_pag:nth-child(3) {
-	background-image: url(image/toilet/t3.png)
+	background-image: url(image/rolla/r3.jpeg)
 }
 
 .ottava_pag:nth-child(4) {
-	background-image: url(image/toilet/t4.jpg)
+	background-image: url(image/rolla/r4.jpeg)
 }
 
 .nona_pag:nth-child(1) {
-	background-image: url(image/mob/m1.jpg)
+	background-image: url(image/noct/n1.jpg)
 }
 
 .nona_pag:nth-child(2) {
-	background-image: url(image/mob/m2.jpg)
+	background-image: url(image/noct/n2.jpg)
 }
 
 .nona_pag:nth-child(3) {
-	background-image: url(image/mob/m3.jpg)
+	background-image: url(image/noct/n3.jpg)
 }
 
 .nona_pag:nth-child(4) {
-	background-image: url(image/mob/m4.jpg)
+	background-image: url(image/noct/n4.jpg)
 }
 
 html.active {
