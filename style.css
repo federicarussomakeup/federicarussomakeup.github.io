@@ -675,52 +675,52 @@ html.is-leaving .transition-wipe {
 
 
 .terza_pag:nth-child(1) {
-	background-image: url(image/nylon/n1.jpg)
+	background-image: url(image/pap/p1.jpg)
 }
 
 .terza_pag:nth-child(2) {
-	background-image: url(image/nylon/n2.jpg)
+	background-image: url(image/pap/p2.jpg)
 }
 
 .terza_pag:nth-child(3) {
-	background-image: url(image/nylon/n3.jpg)
+	background-image: url(image/pap/p3.jpg)
 }
 
 .terza_pag:nth-child(4) {
-	background-image: url(image/nylon/n4.jpg)
+	background-image: url(image/pap/p4.jpg)
 }
 
 
 .quarta_pag:nth-child(1) {
-	background-image: url(image/nast/n1.jpg)
+	background-image: url(image/ico/i1.jpg)
 }
 
 .quarta_pag:nth-child(2) {
-	background-image: url(image/nast/n2.jpg)
+	background-image: url(image/ico/i2.jpg)
 }
 
 .quarta_pag:nth-child(3) {
-	background-image: url(image/nast/n3.jpg)
+	background-image: url(image/ico/i3.jpg)
 }
 
 .quarta_pag:nth-child(4) {
-	background-image: url(image/nast/n4.jpg)
+	background-image: url(image/ico/i4.jpg)
 }
 
 .quinta_pag:nth-child(1) {
-	background-image: url(image/meta/m1.jpg)
+	background-image: url(image/off/o1.jpg)
 }
 
 .quinta_pag:nth-child(2) {
-	background-image: url(image/meta/m2.jpg)
+	background-image: url(image/off/o2.jpg)
 }
 
 .quinta_pag:nth-child(3) {
-	background-image: url(image/meta/m3.jpg)
+	background-image: url(image/off/o3.jpg)
 }
 
 .quinta_pag:nth-child(4) {
-	background-image: url(image/meta/m4.jpg)
+	background-image: url(image/off/o4.jpg)
 }
 
 
@@ -758,19 +758,19 @@ html.is-leaving .transition-wipe {
 }
 
 .nona_pag:nth-child(1) {
-	background-image: url(image/noct/n1.jpg)
+	background-image: url(image/nast/n1.jpg)
 }
 
 .nona_pag:nth-child(2) {
-	background-image: url(image/noct/n2.jpg)
+	background-image: url(image/nast/n2.jpg)
 }
 
 .nona_pag:nth-child(3) {
-	background-image: url(image/noct/n3.jpg)
+	background-image: url(image/nast/n3.jpg)
 }
 
 .nona_pag:nth-child(4) {
-	background-image: url(image/noct/n4.jpg)
+	background-image: url(image/nast/n4.jpg)
 }
 
 html.active {
