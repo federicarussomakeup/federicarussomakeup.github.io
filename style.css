@@ -17,17 +17,21 @@
 	z-index: 100
 }
 
+h1,h2,h3,h4,h5,h6,p,span,a,div {
+	font-family: Poppins;
+}
+
 @font-face {
-	font-family: 'Linux Libertine';
-	src: url(linux_libertine/LinLibertine_DR.ttf);
+	font-family: "Poppins";
+	src: url(Poppins/Poppins-Black.ttf);
 	font-weight: 400;
 	font-style: normal;
 	font-display: swap
 }
 
 @font-face {
-	font-family: Mirage_Regular;
-	src: url(linux_libertine/Mirage_Regular.ttf);
+	font-family: Poppins;
+	src: url(Poppins/Poppins-Regular.ttf);
 	font-weight: 400;
 	font-style: normal;
 	font-display: swap
@@ -145,7 +149,8 @@ a {
 body {
 	overflow: hidden;
 	overflow-x: hidden;
-	background: #1d1d1d
+	background: #1d1d1d;
+
 }
 
 *,
@@ -259,7 +264,7 @@ html.is-leaving .transition-wipe {
 }
 
 .nav_menu>h1 {
-	font-family: Linux Libertine;
+	font-family: Poppins;
 	font-size: 28px;
 	text-align: center
 }
@@ -272,7 +277,7 @@ html.is-leaving .transition-wipe {
 }
 
 .nav_menu>h1>a {
-	font-family: Linux Libertine;
+	font-family: Poppins;
 	font-size: 23px!important;
 	text-decoration: underline;
 	transition: .3s;
@@ -323,7 +328,7 @@ html.is-leaving .transition-wipe {
 	list-style: none;
 	margin-bottom: 15px;
 	color: #000;
-	font-family: Linux Libertine
+	font-family: Poppins
 }
 
 .logo {
@@ -332,7 +337,7 @@ html.is-leaving .transition-wipe {
 	text-decoration: none;
 	font-size: 30px;
 	margin: 15px;
-	font-family: 'Playfair Display', serif;
+	font-family: 'Poppins', serif;
 	display: inline-block
 }
 
@@ -401,7 +406,7 @@ html.is-leaving .transition-wipe {
 	text-transform: uppercase;
 	-webkit-text-stroke: 1px #fff;
 	color: #fff;
-	font-family: 'Linux Libertine'
+	font-family: 'Poppins'
 }
 
 .slider_text2_h1 {
@@ -410,7 +415,7 @@ html.is-leaving .transition-wipe {
 	font-size: 75px;
 	-webkit-text-stroke: 1px #fff;
 	color: #fff;
-	font-family: 'Linux Libertine'
+	font-family: 'Poppins'
 }
 
 .block_container {
@@ -450,7 +455,7 @@ html.is-leaving .transition-wipe {
 .p_font {
 	font-size: 40px;
 	width: fit-content;
-	font-family: "Playfair Display", serif;
+	font-family: "Poppins", serif;
 	position: absolute;
 	left: 5%;
 	top: 20%;
@@ -460,7 +465,7 @@ html.is-leaving .transition-wipe {
 .p_font2 {
 	font-size: 15px;
 	width: fit-content;
-	font-family: "Playfair Display", serif;
+	font-family: "Poppins", serif;
 	position: absolute;
 	left: 0;
 	top: 100%
@@ -810,7 +815,7 @@ body.active {
 .p_font {
 	font-size: 50px;
 	width: fit-content;
-	font-family: "Playfair Display", serif;
+	font-family: "Poppins", serif;
 	position: absolute;
 	left: 5%;
 	top: 20%;
@@ -841,7 +846,7 @@ footer {
 	margin-bottom: 0px !important;
 	background: transparent;
 	padding: 10px;
-	font-family: 'Linux Libertine';
+	font-family: 'Poppins';
 	/* mix-blend-mode: difference; */
 	border: 2px solid #d7d7d729;
 	border-right: none;
