@@ -594,7 +594,7 @@ html.is-leaving .transition-wipe {
 	left: 1%;
 	border-radius: 50%;
 	padding: 5px;
-	font-family: linux_libertine;
+	font-family: Poppins;
 	text-transform: uppercase;
 	margin-top: calc(var(--vh, 1vh) * 15)
 }
@@ -608,7 +608,7 @@ html.is-leaving .transition-wipe {
 	font-size: 30px;
 	position: absolute;
 	left: .5%;
-	font-family: linux_libertine;
+	font-family: Poppins;
 	text-transform: uppercase;
 	margin-top: calc(var(--vh, 1vh) * 35)
 }
@@ -618,7 +618,7 @@ html.is-leaving .transition-wipe {
 	font-size: 15px;
 	position: absolute;
 	left: .5%;
-	font-family: linux_libertine;
+	font-family: Poppins;
 	text-transform: uppercase;
 	margin-top: calc(var(--vh, 1vh) * 45)
 }
@@ -630,7 +630,7 @@ html.is-leaving .transition-wipe {
 	left: 0;
 	width: 2.3%;
 	left: -1%;
-	font-family: linux_libertine;
+	font-family: Poppins;
 	text-transform: uppercase;
 	margin-top: calc(var(--vh, 1vh) * 52)
 }
@@ -667,15 +667,15 @@ html.is-leaving .transition-wipe {
 }
 
 .second_page:nth-child(1) {
-	background-image: url(image/etro/e1.jpg)
+	background-image: url(image/tg/tg1.jpg)
 }
 
 .second_page:nth-child(2) {
-	background-image: url(image/etro/e2.jpg)
+	background-image: url(image/tg/tg2.jpg)
 }
 
 .second_page:nth-child(3) {
-	background-image: url(image/etro/e3.jpg)
+	background-image: url(image/tg/tg3.jpg)
 }
 
 
@@ -747,19 +747,19 @@ html.is-leaving .transition-wipe {
 
 
 .ottava_pag:nth-child(1) {
-	background-image: url(image/rolla/r1.jpeg)
+	background-image: url(image/rolla/r1.jpg)
 }
 
 .ottava_pag:nth-child(2) {
-	background-image: url(image/rolla/r2.jpeg)
+	background-image: url(image/rolla/r2.jpg)
 }
 
 .ottava_pag:nth-child(3) {
-	background-image: url(image/rolla/r3.jpeg)
+	background-image: url(image/rolla/r3.jpg)
 }
 
 .ottava_pag:nth-child(4) {
-	background-image: url(image/rolla/r4.jpeg)
+	background-image: url(image/rolla/r4.jpg)
 }
 
 .nona_pag:nth-child(1) {
